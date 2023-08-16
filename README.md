@@ -1,4 +1,4 @@
-# Chandrayaan 3 Lunar Craft Control
+# Chandrayaan 3 Lunar Craft Control | 20051636 Ashutosh Gautam
 
 Welcome to the Chandrayaan 3 Lunar Craft Control project! This project simulates the control of a lunar spacecraft using JavaScript, HTML, and CSS. The spacecraft receives a sequence of commands and moves, rotates, and changes direction accordingly.
 
