@@ -20,7 +20,7 @@ Welcome to the Chandrayaan 3 Lunar Craft Control project! This project simulates
 
 ## Getting Started
 
-1. Clone this repository: `git clone <repository_url>`
+1. Clone this repository: `git clone [<repository_url>](https://github.com/Traitor000/Incubyte-Chandrayaan-assignment)`
 2. Navigate to the project directory: `cd chandrayaan-3-lunar-craft`
 3. Open `index.html` in a web browser to interact with the spacecraft.
 
